@@ -121,7 +121,7 @@ int main()
 				ss = 'd';
 				pasta = 1;
 			}
-
+			//////////////
 			n++;
 			cout << X << ";" << Y << "; n = "<<n<<"; try:"<<iter<<":::::"<<BAN<< endl;
 			this_thread::sleep_for(std:: chrono::milliseconds(5));
